@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>8432FB3D-0BFF-4E4C-9311-B27D89BBA7F0</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8432FB3D-0BFF-4E4C-9311-B27D89BBA7F0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>law project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>law</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace law with scheme law and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>595925922.47736502</real>
+			<key>timeStoppedRecording</key>
+			<real>595925931.32587302</real>
+			<key>title</key>
+			<string>Building workspace law with scheme law and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8432FB3D-0BFF-4E4C-9311-B27D89BBA7F0</string>
+		</dict>
+		<key>EE6B97E9-0E55-46C3-BF4D-581E5E462314</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EE6B97E9-0E55-46C3-BF4D-581E5E462314.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>law project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>law</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace law with scheme law and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>595925836.99758506</real>
+			<key>timeStoppedRecording</key>
+			<real>595925840.86351299</real>
+			<key>title</key>
+			<string>Building workspace law with scheme law and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>EE6B97E9-0E55-46C3-BF4D-581E5E462314</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

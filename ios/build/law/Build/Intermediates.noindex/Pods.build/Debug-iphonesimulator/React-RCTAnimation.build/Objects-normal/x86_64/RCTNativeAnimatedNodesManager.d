@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTNativeAnimatedNodesManager.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTAdditionAnimatedNode.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTValueAnimatedNode.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTAnimatedNode.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTAnimationDriver.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTDiffClampAnimatedNode.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTDivisionAnimatedNode.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTEventAnimation.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTFrameAnimation.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTDecayAnimation.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTInterpolationAnimatedNode.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTModuloAnimatedNode.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTMultiplicationAnimatedNode.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTPropsAnimatedNode.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTSpringAnimation.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTStyleAnimatedNode.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTSubtractionAnimatedNode.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTTransformAnimatedNode.h \
+  /Users/sagargandhi/Documents/Sagar/Law/lawreactnative/law/ios/Pods/Headers/Public/React-Core/React/RCTTrackingAnimatedNode.h

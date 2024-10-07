@@ -1,0 +1,8 @@
+.highlighted {
+    font-style: normal;
+    background: yellow;
+  }
+  
+  .highlighted:hover {
+    background: lime;
+  }
